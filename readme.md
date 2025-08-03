@@ -45,7 +45,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## 📫 Contact
 
 Doug Parkerson  
-[Email Address or GitHub profile link]
+https://github.com/dougparkerson
 
 ---
 
