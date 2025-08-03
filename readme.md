@@ -37,6 +37,12 @@ The app promotes FamilySearch’s mission by helping users connect with family h
 - Google Maps or Mapbox SDK (for location context)
 - OCR and image processing tools for reading inscriptions
 - RESTful API integration with FamilySearch
+## 🧭 App Architecture
+
+The diagram below shows the flow of data from user input (gravestone photo and GPS) through the backend to third-party data sources and back.
+
+![App Architecture Diagram](docs/Cemetery_Biography_App_Architecture.png)
+
 
 ## ⚖️ License
 
